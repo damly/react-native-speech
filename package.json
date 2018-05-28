@@ -1,0 +1,9 @@
+{
+  "name": "react-native-speech",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "8051263@qq.com",
+  "license": "MIT",
+  "nativePackage": true
+}
